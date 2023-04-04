@@ -32,6 +32,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @name RepairOperationLoad2Test
  * @date 2023-04-03 9:55
  */
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @Rollback(value = false)
 @SpringBootTest(classes = HousingRentalAdminApplication.class)
