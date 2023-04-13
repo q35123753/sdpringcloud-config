@@ -69,6 +69,7 @@ public class RepairOperationLoad2Test {
             List<String> pictureNameList = StrUtil.split(pictureName, ',');
 
 
+
             for (int i = 0; i < pictureUrlList.size(); i++) {
                 SelectAllFromAuditVo loadImgs = new SelectAllFromAuditVo();
                 BeanUtil.copy(selectAllFromAuditVo, loadImgs);
