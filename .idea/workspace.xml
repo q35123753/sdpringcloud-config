@@ -72,6 +72,7 @@
       <updated>1679825660264</updated>
       <workItem from="1679825661499" duration="2578000" />
       <workItem from="1680572829567" duration="191000" />
+      <workItem from="1680573140893" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="ceshi">
       <created>1679825696675</created>
@@ -115,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680572926704</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="多线程下载">
+      <created>1680573145685</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680573145685</updated>
+    </task>
+    <task id="LOCAL-00008" summary="多线程下载">
+      <created>1680573193050</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680573193050</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
